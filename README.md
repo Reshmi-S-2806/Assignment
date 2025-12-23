@@ -1,5 +1,3 @@
-## Offline Assignment
-
 ## Overview
 This project demonstrates a simple workflow using Python, Gradle, Docker, and Shell scripting.
 
